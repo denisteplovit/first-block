@@ -1,0 +1,66 @@
+body {
+  font-family: "Manrope", sans-serif;
+  background-color: #f5f5f5;
+  width: 100%;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1400px;
+  padding: 125px 128px;
+}
+
+.title {
+  margin-bottom: 30px;
+  line-height: 60px;
+  width: 956px;
+  letter-spacing: -1.8px;
+  font-size: 60px;
+}
+
+.interior-for-developer-description {
+  margin-bottom: 150px;
+  width: 1150px;
+  height: 500px;
+  background-image: url(../recources/interior-for-developer-description.png);
+}
+
+.description-command {
+  padding-top: 379px;
+  padding-left: 40px;
+  width: 430px;
+  letter-spacing: -0.6px;
+  font-size: 20px;
+  line-height: normal;
+  color: white;
+}
+
+.description-studio {
+  width: 1099px;
+}
+
+.title-studio {
+  margin-bottom: 30px;
+  font-size: 18px;
+  line-height: normal;
+}
+
+.text__description-studio {
+  margin-bottom: 30px;
+  width: 1048px;
+  line-height: normal;
+  font-size: 40px;
+}
+
+.btn-services {
+  display: inline-block;
+  border-radius: 5px;
+  padding: 20px 40px;
+  width: 255px;
+  line-height: normal;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #ad1818;
+  color: white;
+}
